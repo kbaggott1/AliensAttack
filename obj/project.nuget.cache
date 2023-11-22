@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6aOi6t2SaQvP7nXk5WPs3dJOe3HNS2nDQOYEiaK7mpvSI8KIHx4Px+oPqVpcMwPJ1WsIOsF28X6ieYaeMcU4eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\Desktop\\Alien\\GameLab5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\naudio\\1.9.0-preview1\\naudio.1.9.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}
