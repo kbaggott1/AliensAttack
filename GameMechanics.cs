@@ -12,7 +12,7 @@ namespace GameLab5
     class Controller
     {
         //Player Position-------------------
-        private const string sprite = "►";
+        private const string sprite = ">";
         public int x = 0, y = 0;
         private int LastX = 0, LastY = 0;
         private int lives = 3;
